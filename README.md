@@ -3,7 +3,7 @@
 Exploring what drives customers to purchase a bike, using demographic and lifestyle data (income, age, commute distance, occupation, marital status, and more).
 
 ## Goal
-Identify which customer characteristics are associated with a higher likelihood of purchasing a bike — useful for shaping targeted marketing or understanding the customer base.
+Identify which customer characteristics are associated with a higher likelihood of purchasing a bike useful for shaping targeted marketing or understanding the customer base.
 
 ## Tools
 Excel (PivotTables, PivotCharts, Slicers)
@@ -27,7 +27,7 @@ The workbook contains:
 ## Preview
 ![Dashboard preview](screenshot/dashboard_preview.png)
 
-*Note: the live workbook includes interactive slicers (filters for gender, region, commute distance) that don't come through in a static image- open the file in Excel to use them.*
+*Note: the live workbook includes interactive slicers (filters for gender, region, commute distance) that don't come through in a static image open the file in Excel to use them.*
 
 ## How to use
 1. Download `Bike_sales_Analysis.xlsx`
