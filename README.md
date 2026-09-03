@@ -20,14 +20,12 @@ The workbook contains:
 
 ## Key observations
 - Customers who purchased a bike had a **higher average income** than those who didn't, across both genders (e.g. Male buyers: ~$60,100 vs ~$56,200 non-buyers).
-- Commute distance shows a **noticeable split at longer distances** — worth digging into further to see if it's a genuine trend or a data quirk.
+- Commute distance shows a **noticeable split at longer distances**  worth digging into further to see if it's a genuine trend or a data quirk.
 - Purchase rate breakdowns by gender and occupation are available in the dashboard's interactive slicers.
 
 
 ## Preview
 ![Dashboard preview](screenshot/dashboard_preview.png)
-
-*Note: the live workbook includes interactive slicers (filters for gender, region, commute distance) that don't come through in a static image open the file in Excel to use them.*
 
 ## How to use
 1. Download `Bike_sales_Analysis.xlsx`
